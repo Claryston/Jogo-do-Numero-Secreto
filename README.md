@@ -19,7 +19,7 @@ Bem-vindo ao **Jogo do Número Secreto**! Este é um projeto simples e divertido
 
 Você pode jogar o Jogo do Número Secreto através do link abaixo:
 
-👉 [Jogar Agora]([https://numero-secreto-pi-mauve.vercel.app](https://jogo-do-numero-secreto-claryston.vercel.app))
+👉 [Jogar Agora](https://jogo-do-numero-secreto-claryston.vercel.app)
 
 ## 🧠 Aprendizados
 
@@ -32,4 +32,3 @@ Este projeto me permitiu praticar:
 ## 📌 Observações
 
 Este projeto foi desenvolvido como parte do curso de lógica de programação da Alura. É uma ótima maneira de reforçar conceitos básicos de programação de forma prática e divertida.
-
